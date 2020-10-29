@@ -1,5 +1,5 @@
 # helloVuejs
-Vue.jsのSFC（単一ファイルコンポーネント）＋PHPでWebアプリケーションを構築する
+Vue.js3でSFC（単一ファイルコンポーネント）を使う環境の構築
 
 ## ツールなどのインストール
 
@@ -30,4 +30,4 @@ Vue.jsのSFC（単一ファイルコンポーネント）＋PHPでWebアプリ�
     npm run build
 
 ## 元になった記事
-[Vue.jsのSFC（単一ファイルコンポーネント）＋PHPでWebアプリケーションを構築する - フロントエンド環境編](https://qiita.com/ison12/items/b336766bd6ca01cd62a3)
+[Vue.js3でSFC（単一ファイルコンポーネント）を使う環境の構築](https://qiita.com/ison12/items/6b5b3e0d8338b3baac83)
